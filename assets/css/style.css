@@ -1235,6 +1235,11 @@ a:hover {
 .technology-card p {
   font-size: 14px;
 }
+.btn-con {
+  display: flex;
+  align-self: flex-start;
+}
+
 
 
 
