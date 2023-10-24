@@ -261,6 +261,7 @@
 
 })()
 
+
 let currentPageIndex = 0;
         const pages = document.querySelectorAll('.table-page');
 
@@ -278,4 +279,5 @@ let currentPageIndex = 0;
             // Show the new current page
             pages[currentPageIndex].classList.add('active');
         }
-
+        
+      

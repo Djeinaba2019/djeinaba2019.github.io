@@ -273,7 +273,7 @@ h6 {
 #hero p {
   color: #ffffff;
   margin-bottom: 50px;
-  font-size: 26px;
+  font-size: 20px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -376,6 +376,7 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+  
 }
 
 /*--------------------------------------------------------------
@@ -759,7 +760,7 @@ section {
 .testimonials .testimonial-item {
   box-sizing: content-box;
   text-align: center;
-  min-height: 320px;
+  min-height: 150px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -1207,7 +1208,7 @@ a:hover {
   color: #929191;
   padding: 20px;
   margin: 10px;
-  top: 360%;
+  top: 395%;
 }
 .arrow {
   list-style-Type: none;
